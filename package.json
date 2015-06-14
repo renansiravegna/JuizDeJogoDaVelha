@@ -1,0 +1,14 @@
+{
+  "name": "JuizDeJogoDaVelha",
+  "version": "0.0.1",
+  "description": "Analisa uma matriz com as marcações e verifica o vencedor",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "author": "Renan Siravegna",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^2.2.5"
+  }
+}
